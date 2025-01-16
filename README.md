@@ -105,5 +105,5 @@ The project is divided into three major milestones:
   - Standard C++20 (console).
   - Qt6 for the graphical interface.
 - The working directory:
-  - `GUI` is located at `\dev4-Tetris\dev4\dev4\build-TETRIS-Desktop_Qt_6_6_1_MinGW_64_bit-Debug\gui`
-  - `Console` is located at `\dev4\dev4-Tetris\dev4\dev4\build-TETRIS-Desktop_Qt_6_6_1_MinGW_64_bit-Debug\Console`
+  - `GUI` is located at `\build-TETRIS-Desktop_Qt_6_6_1_MinGW_64_bit-Debug\gui`
+  - `Console` is located at `\build-TETRIS-Desktop_Qt_6_6_1_MinGW_64_bit-Debug\Console`
